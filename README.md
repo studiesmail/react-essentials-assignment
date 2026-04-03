@@ -41,6 +41,8 @@ npm start
 ```
 http://localhost:3000
 
+## Live link
+https://react-essentials-assignment-y585.vercel.app/
 
 ## 📌 Purpose
 
